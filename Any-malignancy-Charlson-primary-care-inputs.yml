@@ -1,0 +1,627 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mneoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mcarcinosarcoma---primary.py
+inputModule4:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mchoriocarcinoma---primary.py
+inputModule5:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-kahler---primary.py
+inputModule6:
+  class: File
+  path: python/mlymphocytic-any-malignancy-charlson-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/mhepatocellular-any-malignancy-charlson-primary-care---primary.py
+inputModule8:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-erythroleukaemia---primary.py
+inputModule9:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-neoplsm---primary.py
+inputModule10:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mlymphoma---primary.py
+inputModule11:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-unspecif---primary.py
+inputModule12:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mrespiratory---primary.py
+inputModule13:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-chondroma---primary.py
+inputModule14:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-neuroblastoma---primary.py
+inputModule15:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mliposarcoma---primary.py
+inputModule16:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mhodgkin---primary.py
+inputModule17:
+  class: File
+  path: python/mlymphoblastic-any-malignancy-charlson-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-stage---primary.py
+inputModule19:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-brillbaehr-rosenthal---primary.py
+inputModule20:
+  class: File
+  path: python/adenocarcinomatous-any-malignancy-charlson-primary-care---primary.py
+inputModule21:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mtumour---primary.py
+inputModule22:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-madenosarcoma---primary.py
+inputModule23:
+  class: File
+  path: python/carotid-any-malignancy-charlson-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-maxilla---primary.py
+inputModule25:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-descending---primary.py
+inputModule26:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mmalig---primary.py
+inputModule27:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-undescended---primary.py
+inputModule28:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mmalignant---primary.py
+inputModule29:
+  class: File
+  path: python/transitional-any-malignancy-charlson-primary-care---primary.py
+inputModule30:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mmixed---primary.py
+inputModule31:
+  class: File
+  path: python/nonfollicular-any-malignancy-charlson-primary-care---primary.py
+inputModule32:
+  class: File
+  path: python/mcarcinoid-any-malignancy-charlson-primary-care---primary.py
+inputModule33:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mmesothelioma---primary.py
+inputModule34:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-epithelioma---primary.py
+inputModule35:
+  class: File
+  path: python/mintraepithelial-any-malignancy-charlson-primary-care---primary.py
+inputModule36:
+  class: File
+  path: python/autonomic-any-malignancy-charlson-primary-care---primary.py
+inputModule37:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-msweat---primary.py
+inputModule38:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-myelomatosis---primary.py
+inputModule39:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mmelanoma---primary.py
+inputModule40:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-heavychain---primary.py
+inputModule41:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-predominance---primary.py
+inputModule42:
+  class: File
+  path: python/centroblasticcentrocytic-any-malignancy-charlson-primary-care---primary.py
+inputModule43:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mosteoma---primary.py
+inputModule44:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-limbunspfd---primary.py
+inputModule45:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-naevu---primary.py
+inputModule46:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-systemunspc---primary.py
+inputModule47:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-bowel---primary.py
+inputModule48:
+  class: File
+  path: python/biphasic-any-malignancy-charlson-primary-care---primary.py
+inputModule49:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-polycythaemia---primary.py
+inputModule50:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-myosarcoma---primary.py
+inputModule51:
+  class: File
+  path: python/intestinal-any-malignancy-charlson-primary-care---primary.py
+inputModule52:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-dermatofibrosarcoma---primary.py
+inputModule53:
+  class: File
+  path: python/different-any-malignancy-charlson-primary-care---primary.py
+inputModule54:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-medulla---primary.py
+inputModule55:
+  class: File
+  path: python/thoracic-any-malignancy-charlson-primary-care---primary.py
+inputModule56:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-myelofibrosis---primary.py
+inputModule57:
+  class: File
+  path: python/any-malignancy-charlson-primary-care---primary.py
+inputModule58:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-angiosarcoma---primary.py
+inputModule59:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-liposarcoma---primary.py
+inputModule60:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mcystadenoma---primary.py
+inputModule61:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mastocytoma---primary.py
+inputModule62:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-chloroma---primary.py
+inputModule63:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-dreyfus'---primary.py
+inputModule64:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-polyposis---primary.py
+inputModule65:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mmycosis---primary.py
+inputModule66:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mosteosarcoma---primary.py
+inputModule67:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-letterersiwe---primary.py
+inputModule68:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-hepatoblastoma---primary.py
+inputModule69:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-nephroblastoma---primary.py
+inputModule70:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-sezary---primary.py
+inputModule71:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-leiomyosarcoma---primary.py
+inputModule72:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-msarcoma---primary.py
+inputModule73:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mpigmented---primary.py
+inputModule74:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mreticulosarcoma---primary.py
+inputModule75:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-meningioma---primary.py
+inputModule76:
+  class: File
+  path: python/aleukaemic-any-malignancy-charlson-primary-care---primary.py
+inputModule77:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-oligodendroglioma---primary.py
+inputModule78:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-noninfiltrating---primary.py
+inputModule79:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-nkcell---primary.py
+inputModule80:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-epulis---primary.py
+inputModule81:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-granuloma---primary.py
+inputModule82:
+  class: File
+  path: python/abdominal-any-malignancy-charlson-primary-care---primary.py
+inputModule83:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-paragranuloma---primary.py
+inputModule84:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-cancer---primary.py
+inputModule85:
+  class: File
+  path: python/mthyroid-any-malignancy-charlson-primary-care---primary.py
+inputModule86:
+  class: File
+  path: python/pancreatic-any-malignancy-charlson-primary-care---primary.py
+inputModule87:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-periph---primary.py
+inputModule88:
+  class: File
+  path: python/msebaceous-any-malignancy-charlson-primary-care---primary.py
+inputModule89:
+  class: File
+  path: python/solitary-any-malignancy-charlson-primary-care---primary.py
+inputModule90:
+  class: File
+  path: python/mucinous-any-malignancy-charlson-primary-care---primary.py
+inputModule91:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-cylindroma---primary.py
+inputModule92:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-carcinoma---primary.py
+inputModule93:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-recurrence---primary.py
+inputModule94:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-overlap---primary.py
+inputModule95:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-odontoma---primary.py
+inputModule96:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-haemangioblastoma---primary.py
+inputModule97:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-sarcoma---primary.py
+inputModule98:
+  class: File
+  path: python/nonrectal-any-malignancy-charlson-primary-care---primary.py
+inputModule99:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-erythraemia---primary.py
+inputModule100:
+  class: File
+  path: python/classical-any-malignancy-charlson-primary-care---primary.py
+inputModule101:
+  class: File
+  path: python/myeloproliferative-any-malignancy-charlson-primary-care---primary.py
+inputModule102:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-meatus---primary.py
+inputModule103:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-resulting---primary.py
+inputModule104:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-histiocytosis---primary.py
+inputModule105:
+  class: File
+  path: python/pleural-any-malignancy-charlson-primary-care---primary.py
+inputModule106:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-lymphosarcoma---primary.py
+inputModule107:
+  class: File
+  path: python/subcutaneous-any-malignancy-charlson-primary-care---primary.py
+inputModule108:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-plasma---primary.py
+inputModule109:
+  class: File
+  path: python/pillar-any-malignancy-charlson-primary-care---primary.py
+inputModule110:
+  class: File
+  path: python/epidermoid-any-malignancy-charlson-primary-care---primary.py
+inputModule111:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-myelosclerosis---primary.py
+inputModule112:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-exocervix---primary.py
+inputModule113:
+  class: File
+  path: python/tubulovillous-any-malignancy-charlson-primary-care---primary.py
+inputModule114:
+  class: File
+  path: python/splenic-any-malignancy-charlson-primary-care---primary.py
+inputModule115:
+  class: File
+  path: python/mmyxoid-any-malignancy-charlson-primary-care---primary.py
+inputModule116:
+  class: File
+  path: python/moxyphilic-any-malignancy-charlson-primary-care---primary.py
+inputModule117:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mbile---primary.py
+inputModule118:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-urethra---primary.py
+inputModule119:
+  class: File
+  path: python/sacral-any-malignancy-charlson-primary-care---primary.py
+inputModule120:
+  class: File
+  path: python/villous-any-malignancy-charlson-primary-care---primary.py
+inputModule121:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-lymph---primary.py
+inputModule122:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-protuberan---primary.py
+inputModule123:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-siewert---primary.py
+inputModule124:
+  class: File
+  path: python/mameloblastic-any-malignancy-charlson-primary-care---primary.py
+inputModule125:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-reticuloend---primary.py
+inputModule126:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-chondrosarcoma---primary.py
+inputModule127:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mpaget---primary.py
+inputModule128:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-heilmeyerschoner---primary.py
+inputModule129:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-macroglobulinaemia---primary.py
+inputModule130:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-subacute---primary.py
+inputModule131:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-erythroblastoma---primary.py
+inputModule132:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mastocytosis---primary.py
+inputModule133:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-teratoma---primary.py
+inputModule134:
+  class: File
+  path: python/neutrophilic-any-malignancy-charlson-primary-care---primary.py
+inputModule135:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mhepatobiliary---primary.py
+inputModule136:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-waldenstrom---primary.py
+inputModule137:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mplasmacytoma---primary.py
+inputModule138:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-guglielmo---primary.py
+inputModule139:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-pancoast---primary.py
+inputModule140:
+  class: File
+  path: python/immunoblastic-any-malignancy-charlson-primary-care---primary.py
+inputModule141:
+  class: File
+  path: python/aryepiglottic-any-malignancy-charlson-primary-care---primary.py
+inputModule142:
+  class: File
+  path: python/modontogenic-any-malignancy-charlson-primary-care---primary.py
+inputModule143:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-stroma---primary.py
+inputModule144:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-glioma---primary.py
+inputModule145:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-anaemia---primary.py
+inputModule146:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-symmer---primary.py
+inputModule147:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-transverse---primary.py
+inputModule148:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-vaquez'---primary.py
+inputModule149:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-ovary---primary.py
+inputModule150:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-jejunum---primary.py
+inputModule151:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-fluid---primary.py
+inputModule152:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-pericardium---primary.py
+inputModule153:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-keratinising---primary.py
+inputModule154:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-acanthoameloblastoma---primary.py
+inputModule155:
+  class: File
+  path: python/parathyroid-any-malignancy-charlson-primary-care---primary.py
+inputModule156:
+  class: File
+  path: python/myeloblastic-any-malignancy-charlson-primary-care---primary.py
+inputModule157:
+  class: File
+  path: python/pelvic-any-malignancy-charlson-primary-care---primary.py
+inputModule158:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-phaeochromocytoma---primary.py
+inputModule159:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-hypernephroma---primary.py
+inputModule160:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mapocrine---primary.py
+inputModule161:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-franklin's---primary.py
+inputModule162:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-seminoma---primary.py
+inputModule163:
+  class: File
+  path: python/ovarian-any-malignancy-charlson-primary-care---primary.py
+inputModule164:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-trunkunspecified---primary.py
+inputModule165:
+  class: File
+  path: python/mrenal-any-malignancy-charlson-primary-care---primary.py
+inputModule166:
+  class: File
+  path: python/embryonal-any-malignancy-charlson-primary-care---primary.py
+inputModule167:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-madenoma---primary.py
+inputModule168:
+  class: File
+  path: python/sigmoid-any-malignancy-charlson-primary-care---primary.py
+inputModule169:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-fibrosarcoma---primary.py
+inputModule170:
+  class: File
+  path: python/unknown-any-malignancy-charlson-primary-care---primary.py
+inputModule171:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-appendix---primary.py
+inputModule172:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-stomach---primary.py
+inputModule173:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-meninge---primary.py
+inputModule174:
+  class: File
+  path: python/fallopian-any-malignancy-charlson-primary-care---primary.py
+inputModule175:
+  class: File
+  path: python/arytenoid-any-malignancy-charlson-primary-care---primary.py
+inputModule176:
+  class: File
+  path: python/mjuxtacortical-any-malignancy-charlson-primary-care---primary.py
+inputModule177:
+  class: File
+  path: python/sphenoidal-any-malignancy-charlson-primary-care---primary.py
+inputModule178:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-ependymoma---primary.py
+inputModule179:
+  class: File
+  path: python/uncertain-any-malignancy-charlson-primary-care---primary.py
+inputModule180:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mcystosarcoma---primary.py
+inputModule181:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-eyeball---primary.py
+inputModule182:
+  class: File
+  path: python/gastric-any-malignancy-charlson-primary-care---primary.py
+inputModule183:
+  class: File
+  path: python/female-any-malignancy-charlson-primary-care---primary.py
+inputModule184:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-follicle---primary.py
+inputModule185:
+  class: File
+  path: python/mgranular-any-malignancy-charlson-primary-care---primary.py
+inputModule186:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-forehead---primary.py
+inputModule187:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-spreading---primary.py
+inputModule188:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-brain---primary.py
+inputModule189:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-fusiform---primary.py
+inputModule190:
+  class: File
+  path: python/malignancy---primary.py
+inputModule191:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mnaevi---primary.py
+inputModule192:
+  class: File
+  path: python/malveolar-any-malignancy-charlson-primary-care---primary.py
+inputModule193:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-throat---primary.py
+inputModule194:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-retinoblastoma---primary.py
+inputModule195:
+  class: File
+  path: python/immunoproliferative-any-malignancy-charlson-primary-care---primary.py
+inputModule196:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mgastrinoma---primary.py
+inputModule197:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-adamantinoma---primary.py
+inputModule198:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-reticulosis---primary.py
+inputModule199:
+  class: File
+  path: python/mendometrioid-any-malignancy-charlson-primary-care---primary.py
+inputModule200:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-adenoma---primary.py
+inputModule201:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-mcarcinoma---primary.py
+inputModule202:
+  class: File
+  path: python/mtubular-any-malignancy-charlson-primary-care---primary.py
+inputModule203:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-hepatoma---primary.py
+inputModule204:
+  class: File
+  path: python/mepithelioid-any-malignancy-charlson-primary-care---primary.py
+inputModule205:
+  class: File
+  path: python/spermatic-any-malignancy-charlson-primary-care---primary.py
+inputModule206:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-oligodendroblastoma---primary.py
+inputModule207:
+  class: File
+  path: python/lingual-any-malignancy-charlson-primary-care---primary.py
+inputModule208:
+  class: File
+  path: python/any-malignancy-charlson-primary-care-vulva---primary.py
+inputModule209:
+  class: File
+  path: python/output-cases.py
